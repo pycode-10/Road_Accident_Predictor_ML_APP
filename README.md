@@ -35,3 +35,9 @@ This project involves the development of a machine learning application that pre
 
 3. **Saved Models**:  
    - Six files containing the saved models.
+
+4. **Outout Folder**:
+   - Contains images of the user interface.
+   - `UI_image_1.jpg`: Screenshot of the main input form.
+   - `UI_image_2.jpg`: Screenshot of the prediction result.  
+
